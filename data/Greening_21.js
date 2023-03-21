@@ -1,0 +1,1 @@
+var json_Greening_21 = {"type":"FeatureCollection","name":"Greening_21","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","name":"\"Greening\" - Aesthetic upgrading of affected tourist areas"},"geometry":{"type":"MultiPoint","coordinates":[[23.450951025225997,38.854632641651648]]}}]}

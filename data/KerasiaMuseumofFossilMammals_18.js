@@ -1,0 +1,1 @@
+var json_KerasiaMuseumofFossilMammals_18 = {"type":"FeatureCollection","name":"KerasiaMuseumofFossilMammals_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","name":"Kerasia Museum of Fossil Mammals"},"geometry":{"type":"MultiPoint","coordinates":[[23.247425499909479,38.962354888188713]]}}]}
